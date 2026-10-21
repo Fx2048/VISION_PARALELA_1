@@ -1,0 +1,16 @@
+{
+  "scenario": "clasico_secuencial_B",
+  "accuracy": 0.9388888888888889,
+  "precision_macro": 0.9531914893617021,
+  "recall_macro": 0.9388888888888889,
+  "f1_macro": 0.9374284021331227,
+  "t_extract_train_s": 1.4413072669999565,
+  "t_fit_s": 0.4068894229999387,
+  "t_train_total_s": 1.8481966899998952,
+  "latency_mean_ms": 14.88152958889436,
+  "latency_p95_ms": 15.798894650038164,
+  "throughput_img_s": 67.19739352238832,
+  "mem_start_mb": 303.09375,
+  "mem_peak_mb": 303.109375,
+  "n_features": 1870
+}

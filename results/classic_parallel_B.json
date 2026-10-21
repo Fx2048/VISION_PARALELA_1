@@ -1,0 +1,29 @@
+{
+  "scenario": "clasico_paralelo_B",
+  "n_images": 360,
+  "n_cpu": 4,
+  "reps": 3,
+  "runs": [
+    {
+      "processes": 1,
+      "time_s": 2.7777660560000186,
+      "speedup": 1.0,
+      "efficiency": 1.0,
+      "throughput_img_s": 129.60054689357094
+    },
+    {
+      "processes": 2,
+      "time_s": 1.5224395810000715,
+      "speedup": 1.8245492896180082,
+      "efficiency": 0.9122746448090041,
+      "throughput_img_s": 236.46258576877023
+    },
+    {
+      "processes": 4,
+      "time_s": 1.3947523809999893,
+      "speedup": 1.9915836630502515,
+      "efficiency": 0.49789591576256287,
+      "throughput_img_s": 258.11033191561387
+    }
+  ]
+}

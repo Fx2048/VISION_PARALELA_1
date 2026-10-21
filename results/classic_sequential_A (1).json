@@ -1,0 +1,16 @@
+{
+  "scenario": "clasico_secuencial_A",
+  "accuracy": 1.0,
+  "precision_macro": 1.0,
+  "recall_macro": 1.0,
+  "f1_macro": 1.0,
+  "t_extract_train_s": 2.4037747590000436,
+  "t_fit_s": 0.6324905429999035,
+  "t_train_total_s": 3.036265301999947,
+  "latency_mean_ms": 15.219139949995983,
+  "latency_p95_ms": 16.535973599923178,
+  "throughput_img_s": 65.70673528764442,
+  "mem_start_mb": 291.9921875,
+  "mem_peak_mb": 296.4375,
+  "n_features": 1870
+}
