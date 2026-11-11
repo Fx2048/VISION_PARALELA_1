@@ -1,4 +1,4 @@
-**Alcances y restricciones del proyecto COIL-100 Lab**  
+# **Alcances y restricciones del proyecto COIL-100 Lab**  
 ### Alcances (qué cubre el proyecto)
 
 1. **Comparación de dos enfoques de clasificación de imágenes**
