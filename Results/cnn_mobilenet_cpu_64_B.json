@@ -1,0 +1,15 @@
+{
+  "scenario": "cnn_mobilenet_cpu_64_B",
+  "accuracy": 0.9944444444444445,
+  "precision_macro": 0.9945945945945945,
+  "recall_macro": 0.9944444444444445,
+  "f1_macro": 0.994443372564152,
+  "t_train_total_s": 2.712291243999971,
+  "train_device": "cuda",
+  "latency_mean_ms": 12.407604511110371,
+  "latency_p95_ms": 14.036969400012818,
+  "throughput_img_s": 80.59573458394418,
+  "mem_start_mb": 1546.49609375,
+  "mem_peak_mb": 1546.71484375,
+  "n_params": 2230277
+}

@@ -1,0 +1,16 @@
+{
+  "scenario": "cnn_mobilenet_gpu_B",
+  "accuracy": 1.0,
+  "precision_macro": 1.0,
+  "recall_macro": 1.0,
+  "f1_macro": 1.0,
+  "t_train_total_s": 5.130403187999946,
+  "train_device": "cuda",
+  "latency_mean_ms": 7.221430349998552,
+  "latency_p95_ms": 7.669678699960513,
+  "throughput_img_s": 138.47672158192324,
+  "mem_start_mb": 1527.9921875,
+  "mem_peak_mb": 1527.9921875,
+  "n_params": 2230277,
+  "gpu_mem_peak_mb": 59.88818359375
+}
