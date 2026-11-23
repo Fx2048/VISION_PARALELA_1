@@ -1,0 +1,34 @@
+{
+  "scenario": "feature_extraction_scenario_B",
+  "n_images": 360,
+  "logical_cpus": 4,
+  "repetitions": 3,
+  "results": [
+    {
+      "configuration": "Secuencial",
+      "processes": 1,
+      "time_s": 2.593435813999804,
+      "speedup": 1.0,
+      "efficiency": 1.0,
+      "throughput_img_s": 138.8119952908259
+    },
+    {
+      "configuration": "Paralelo (2 procesos)",
+      "processes": 2,
+      "time_s": 1.4797141830001692,
+      "speedup": 1.7526599689282747,
+      "efficiency": 0.8763299844641373,
+      "throughput_img_s": 243.29022735329073,
+      "same_features": true
+    },
+    {
+      "configuration": "Paralelo (4 procesos)",
+      "processes": 4,
+      "time_s": 1.340535134999982,
+      "speedup": 1.9346272591354639,
+      "efficiency": 0.48365681478386596,
+      "throughput_img_s": 268.5494699846154,
+      "same_features": true
+    }
+  ]
+}
