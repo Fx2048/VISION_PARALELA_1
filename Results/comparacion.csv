@@ -1,0 +1,6 @@
+scenario,accuracy,f1_macro,latency_mean_ms,latency_p95_ms,throughput_img_s,mem_peak_mb,t_train_total_s
+clasico_secuencial_A,1.0,1.0,14.631,20.9,68.35,297.059,2.805
+clasico_secuencial_B,0.939,0.937,13.917,14.842,71.853,303.934,1.71
+cnn_mobilenet_cpu_64_B,0.994,0.994,12.408,14.037,80.596,1546.715,2.712
+cnn_mobilenet_cpu_B,1.0,1.0,16.875,18.131,59.258,1526.043,5.13
+cnn_mobilenet_gpu_B,1.0,1.0,7.221,7.67,138.477,1527.992,5.13

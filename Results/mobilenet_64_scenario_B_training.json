@@ -1,0 +1,20 @@
+{
+  "model": "MobileNetV2",
+  "model_label": "mobilenet_64_scenario_B",
+  "image_size": 64,
+  "training_device": "cuda",
+  "epochs": 8,
+  "batch_size": 32,
+  "learning_rate": 0.0001,
+  "training_time_s": 2.7698492249999163,
+  "n_parameters": 2230277,
+  "classes": [
+    "obj043",
+    "obj063",
+    "obj068",
+    "obj074",
+    "obj075"
+  ],
+  "n_train": 180,
+  "n_test": 180
+}

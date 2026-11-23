@@ -1,0 +1,20 @@
+{
+  "model": "MobileNetV2",
+  "scenario": "mobilenet_128_gpu_scenario_B",
+  "image_size": 128,
+  "accuracy": 1.0,
+  "precision_macro": 1.0,
+  "recall_macro": 1.0,
+  "f1_macro": 1.0,
+  "training_device": "cuda",
+  "inference_device": "cuda",
+  "training_time_s": 3.4769136649999837,
+  "inference_latency_mean_ms": 7.259019455552283,
+  "inference_latency_p95_ms": 7.787333399983254,
+  "throughput_img_s": 137.7596528185524,
+  "ram_before_mb": 1838.5859375,
+  "ram_peak_sampled_mb": 1838.58984375,
+  "n_parameters": 2230277,
+  "n_test": 180,
+  "gpu_peak_allocated_mb": 92.33740234375
+}
