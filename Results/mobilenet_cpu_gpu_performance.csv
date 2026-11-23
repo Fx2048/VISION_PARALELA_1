@@ -1,0 +1,3 @@
+scenario,training_device,inference_device,training_time_s,inference_latency_mean_ms,inference_latency_p95_ms,throughput_img_s,ram_peak_sampled_mb,gpu_peak_allocated_mb
+mobilenet_128_cpu_scenario_B,cuda,cpu,3.4769136649999837,17.26515496666252,18.421828499958792,57.92012883353269,1837.984375,
+mobilenet_128_gpu_scenario_B,cuda,cuda,3.4769136649999837,7.259019455552283,7.787333399983254,137.7596528185524,1838.58984375,92.33740234375

@@ -1,0 +1,6 @@
+{
+  "model": "MobileNetV2",
+  "training_device": "cuda",
+  "epochs": 8,
+  "training_time_s": 5.130403187999946
+}
